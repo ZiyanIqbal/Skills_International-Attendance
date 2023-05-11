@@ -1,0 +1,22 @@
+C:\Users\ziyan\source\repos\Skills International\Skills International\bin\Debug\Skills International.exe.config
+C:\Users\ziyan\source\repos\Skills International\Skills International\bin\Debug\Skills International.exe
+C:\Users\ziyan\source\repos\Skills International\Skills International\bin\Debug\Skills International.pdb
+C:\Users\ziyan\source\repos\Skills International\Skills International\obj\Debug\Skills International.csproj.AssemblyReference.cache
+C:\Users\ziyan\source\repos\Skills International\Skills International\obj\Debug\Skills_International.Form1.resources
+C:\Users\ziyan\source\repos\Skills International\Skills International\obj\Debug\Skills_International.Properties.Resources.resources
+C:\Users\ziyan\source\repos\Skills International\Skills International\obj\Debug\Skills International.csproj.GenerateResource.cache
+C:\Users\ziyan\source\repos\Skills International\Skills International\obj\Debug\Skills International.csproj.CoreCompileInputs.cache
+C:\Users\ziyan\source\repos\Skills International\Skills International\obj\Debug\Skills International.exe
+C:\Users\ziyan\source\repos\Skills International\Skills International\obj\Debug\Skills International.pdb
+C:\Users\ziyan\source\repos\Skills International\Skills International\obj\Debug\Skills_International.Registration.resources
+C:\Users\ziyan\Desktop\Skills International\Skills International\bin\Debug\Skills International.exe.config
+C:\Users\ziyan\Desktop\Skills International\Skills International\bin\Debug\Skills International.exe
+C:\Users\ziyan\Desktop\Skills International\Skills International\bin\Debug\Skills International.pdb
+C:\Users\ziyan\Desktop\Skills International\Skills International\obj\Debug\Skills International.csproj.AssemblyReference.cache
+C:\Users\ziyan\Desktop\Skills International\Skills International\obj\Debug\Skills_International.Properties.Resources.resources
+C:\Users\ziyan\Desktop\Skills International\Skills International\obj\Debug\Skills_International.Registration.resources
+C:\Users\ziyan\Desktop\Skills International\Skills International\obj\Debug\Skills International.csproj.GenerateResource.cache
+C:\Users\ziyan\Desktop\Skills International\Skills International\obj\Debug\Skills International.csproj.CoreCompileInputs.cache
+C:\Users\ziyan\Desktop\Skills International\Skills International\obj\Debug\Skills International.exe
+C:\Users\ziyan\Desktop\Skills International\Skills International\obj\Debug\Skills International.pdb
+C:\Users\ziyan\Desktop\Skills International\Skills International\obj\Debug\Skills_International.Login.resources
